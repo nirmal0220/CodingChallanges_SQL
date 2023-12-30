@@ -34,3 +34,15 @@
 4. Exhibitions:
 5. ExhibitionArtworks:
 
+## *RDBMS Coding Challange 4: Crime Management System*     
+
+
+
+### *Database Tables* :     
+
+1. Crime:
+2. Suspect:
+3. Victim:
+
+   
+
